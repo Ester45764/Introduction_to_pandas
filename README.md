@@ -26,8 +26,10 @@ Complete the study plan, improve my practical Pandas skills, and earn the **Pand
 ---
 
 **Platform:** [LeetCode](https://leetcode.com/studyplan/introduction-to-pandas/)
+
 **Language:** Python
+
+**Library:** Pandas
 
 <img width="360" height="360" alt="Introduction_to_Pandas" src="https://github.com/user-attachments/assets/a05b0388-a64f-4eaa-bcdf-86b2d3ad1c4c" />
 
-**Library:** Pandas
